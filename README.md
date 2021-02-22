@@ -1,6 +1,6 @@
 # gadget_factory
 
-A new Flutter project.
+This project was is a demo created for the purpose of learning about mobile develpment.
 
 ## Getting Started
 
